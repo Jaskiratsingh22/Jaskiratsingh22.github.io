@@ -46,7 +46,7 @@ body {
 }
 
 header h1 {
-    text-align: center;
+    text-align: left;
     font-size: 40px;
     color: white;
 }
@@ -95,7 +95,7 @@ nav {
 nav a {
     text-decoration: none;
     padding: 20px;
-    text-align: center;
+    text-align: left;
     float: left;
     color: white;
 }
